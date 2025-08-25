@@ -2,6 +2,31 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+# Features
+
+1- Add products to the cart 
+
+2- Remove products from the cart
+
+3- Store cart items in localStorage (data persists after refresh) 
+
+4- Manage state globally using React Context API 
+
+5- Toast notifications when adding items 
+
+Tech Stack
+
+1- React (Functional Components + Hooks)
+
+2- Context API for state management
+
+3- LocalStorage for persistence
+
+4- React Hot Toast for notifications
+
+
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
